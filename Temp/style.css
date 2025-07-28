@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(195, 240, 240);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+h1{
+    color: #333;
+}
+input,select,button{
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid#ccc;
+}
+ button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+ }
+ #result{
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+ }
